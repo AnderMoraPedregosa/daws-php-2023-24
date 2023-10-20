@@ -9,6 +9,11 @@
     <script src='main.js'></script>
 </head>
 <body>
-    
+  <?php
+  $nombre = "Mikel";
+  $edad = 22;
+  $frase = "Mi amigo " .$nombre ." tiene " .$edad ." años";
+  echo $frase;
+  ?>  
 </body>
 </html></html>
