@@ -22,4 +22,4 @@ $hi = "<p> Bienvenido $nombre con $edad años";
 echo $hi
   ?>  
 </body>
-</html></html>
+</html>

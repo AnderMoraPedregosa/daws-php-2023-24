@@ -17,4 +17,4 @@ $resultado = concatenarCadenas($cadena1);
 echo "<p>La concatenación de las cadenas es: " . htmlspecialchars($resultado) . "</p>";
 ?>
 </body>
-</html></html>
+</html>

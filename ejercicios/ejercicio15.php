@@ -38,8 +38,8 @@
 
         // Ejemplo de uso de la función 
         getDatos($diccionario, "jvadillo", "email"); 
-        getDatos($diccionario,"amora","email")
+        getDatos($diccionario,"amora","email");
 
     ?>
 </body>
-</html></html>
+</html>

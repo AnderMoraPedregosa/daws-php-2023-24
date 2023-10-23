@@ -26,4 +26,4 @@ foreach ($diccionario as $palabra => $traduccion) {
 
     ?>
 </body>
-</html></html>
+</html>
