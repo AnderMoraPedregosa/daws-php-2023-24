@@ -11,7 +11,7 @@
 <body>
 <?php
 //es necesario que esten en la misma carpeta o se puede poner ordenado?
-require('funciones.php'); 
+require('ejercicio11a.php'); 
 $cadena1 = "Hola, ";
 $resultado = concatenarCadenas($cadena1);
 echo "<p>La concatenación de las cadenas es: " . htmlspecialchars($resultado) . "</p>";
